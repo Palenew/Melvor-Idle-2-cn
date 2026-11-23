@@ -1,5 +1,5 @@
 # Melvor-Idle-2-cn
-Melvor Idle 2 抢先体验版的汉化方案
+Melvor Idle 2 抢先体验版的汉化方案(v0.11.6-alpha1)
 
 
 Melvor Idle 2 - 挂载游戏包内已存在的官方简体中文 (Locale/zh_CN.po)
