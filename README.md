@@ -1,4 +1,4 @@
-# Melvor-Idle-2-cn
+# Melvor-Idle-2-zh-CN
 Melvor Idle 2 抢先体验版的汉化方案(v0.11.6-alpha1)
 
 
